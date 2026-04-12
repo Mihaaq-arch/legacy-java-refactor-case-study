@@ -93,8 +93,3 @@ My goal is scalable evolution, not reckless heroism.
 🤝 Let’s Collaborate
 If you're facing a legacy system nightmare — let's talk.
 
-🧠 Mihaaq
-📧 mihaaq.arch@gmail.com
-🔗 https://github.com/Mihaaq-arch
-🔗 https://www.notion.so/NetBeans-Monster-Inherited-Chaos-Modularized-2627eca1f12980ab877ec13b1e64e2f1?source=copy_link
-
